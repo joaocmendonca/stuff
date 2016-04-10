@@ -1,6 +1,6 @@
+@echo off
 REM source: http://pastebin.com/raw/LjxW3yAA
 
-@echo off
 echo 
 
 echo Step 1: Delete Updates...
